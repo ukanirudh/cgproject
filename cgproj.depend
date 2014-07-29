@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1398171325 source:/home/ukanirudh/Desktop/codeblocks/cg/cgproj/main.c
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SOIL/SOIL.h>
+	<string.h>
+
+1398693017 source:/home/ukanirudh/Desktop/mydekstop/codeblocks/cg/cgproj/main.c
+	<GL/glut.h>
+	<sys/time.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SOIL/SOIL.h>
+	<string.h>
+	<math.h>
+
